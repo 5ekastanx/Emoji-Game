@@ -6,7 +6,7 @@ A tic-tac-toe game based on emojis that offers both multiplayer and single-playe
 
 In this mode, you will play against a computer bot.  
 
-- Click on the 'Single Player' button to play.
+- Click on the 'Single Player' button to play. 
 - Choose a player - there are always new emojis appearing whenever you visit the select player page.
 - Then, choose the game mode you want to play with the bot - Hard or Easy.
 - The player who gets 3 in a row first wins.
